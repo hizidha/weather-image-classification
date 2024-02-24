@@ -1,2 +1,3 @@
-# weather-image-classification
-Berikut merupakan proyek akhir yang dirancang khusus untuk menyelesaikan tanggung jawab sebagai peserta kelas menengah "Belajar Pengembangan Machine Learning" yang diselenggarakan oleh Dicoding. 
+<h1 align="center">Application of Weather Image Classification Model with Tensorflow</h1>
+
+<p align="justify">Proyek ini melibatkan pengembangan dan penerapan model klasifikasi gambar menggunakan TensorFlow untuk mengklasifikasikan berbagai jenis kondisi cuaca yang digambarkan dalam gambar. Model ini dilatih untuk mengenali berbagai pola cuaca seperti cerah, berawan, hujan, bersalju, atau berkabut. Penerapan model ini dapat bermanfaat untuk berbagai industri termasuk meteorologi, pertanian, transportasi, dan perencanaan kota.</p>
